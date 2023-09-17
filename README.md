@@ -1,4 +1,7 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=DBCD4D&background=FFFFFF00&center=true&width=700&height=100&lines=Frontend+Developer" alt="Typing SVG" />
+<div align='center'>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=DBCD4D&background=FFFFFF00&center=true&width=700&height=100&lines=Frontend+Developer" alt="Typing SVG" />
+</div>
+
 
 <h1>Hey, I'm Denis <img src="https://i.ibb.co/CzjYm7D/hacker-1.png" alt="hacker-1" border="0" width=30></h1>
 <p>I'm a Frontend Developer. I'm currently learning web application architecture and authentication strategies.</p>
