@@ -3,7 +3,7 @@
 </div>
 
 
-<h1>Hey, I'm Denis <img src="https://i.ibb.co/CzjYm7D/hacker-1.png" alt="hacker-1" border="0" width=30></h1>
+<h1>Hey, I'm Denis <img src="https://i.ibb.co/BLmXn63/hacker-2.png" alt="hacker-2" border="0" width=30></h1>
 <p>I'm a Frontend Developer. I'm currently learning web application architecture and authentication strategies.</p>
 
   <img src='https://github-readme-stats.vercel.app/api?username=Barresi&show_icons=true&bg_color=000000&text_color=ffffff&title_color=dbcd4d&icon_color=dbcd4d&text_bold=false&&hide=contribs,issues&show=reviews,prs_merged_percentage'/>
